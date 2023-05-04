@@ -1,5 +1,4 @@
 import pygame
-
 from grid import Grid
 
 TITLE = "игра 'Жизнь'"

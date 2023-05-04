@@ -1,5 +1,4 @@
 import pygame
-
 from event import Event
 from engine import Engine
 from main_window import MainWindow

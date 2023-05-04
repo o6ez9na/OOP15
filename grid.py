@@ -1,7 +1,5 @@
 from random import randint
-
 import pygame
-
 from cell import Cell
 
 CELL_SIZE = 40
