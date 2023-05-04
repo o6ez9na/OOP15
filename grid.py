@@ -4,7 +4,7 @@ import pygame
 
 from cell import Cell
 
-CELL_SIZE = 35
+CELL_SIZE = 40
 
 
 class Grid:

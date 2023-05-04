@@ -6,8 +6,8 @@ from main_window import MainWindow
 
 
 class Game:
-    WIDTH = 3440
-    HEIGHT = 1340
+    WIDTH = 800
+    HEIGHT = 600
 
     def __init__(self):
         self.__main_window = MainWindow(Game.WIDTH, Game.HEIGHT, pygame.Color((168, 228, 160)))
